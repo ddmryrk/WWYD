@@ -15,7 +15,7 @@ namespace WWYD.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your application description pagee.";
+            ViewBag.Message = "Your application description page.";
 
             return View();
         }
